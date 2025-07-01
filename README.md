@@ -8,4 +8,4 @@
 
 ![preview img](/preview.png)
 
-site is live at https://niks011.github.io/coffee-website/
+- Site is live at https://niks011.github.io/coffee-website/
