@@ -1,6 +1,6 @@
 # Responsive Coffee Website
 
-- Responsive Coffee Website Usign HTML CSS JavaScript
+- Responsive Coffee Website using HTML CSS JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
